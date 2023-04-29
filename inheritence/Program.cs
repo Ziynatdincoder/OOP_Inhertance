@@ -131,6 +131,8 @@ public class Program
         gentra.Price();
         gentra.OilRasxod();
         gentra.AbsTormozFunc();
+        
+        Console.WriteLine(" )) ");
 
 
 
